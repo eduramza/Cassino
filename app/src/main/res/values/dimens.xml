@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="largura_imagem">83dp</dimen>
+    <dimen name="margens_imagem">35dp</dimen>
+    <dimen name="margem_fileira">10dp</dimen>
+    <dimen name="tamanho_maquina">185dp</dimen>
+    <dimen name="labels_informativos">24sp</dimen>
+    <dimen name="pontuacoes">35sp</dimen>
+    <dimen name="titulo_regras">32sp</dimen>
+    <dimen name="main_botoes">120dp</dimen>
+    <dimen name="margens_lista_recordes">16dp</dimen>
+</resources>

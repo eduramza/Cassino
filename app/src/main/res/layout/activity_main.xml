@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="br.com.uatizapi.cursoandroid.cassino.Activitys.MainActivity"
+    android:background="@drawable/fundoclaro2">
+
+    <RelativeLayout
+        android:layout_width="150dp"
+        android:layout_height="325dp"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true">
+
+        <Button
+            android:id="@+id/btJogar"
+            android:layout_width="@dimen/main_botoes"
+            android:layout_height="wrap_content"
+            android:text="@string/jogar"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="35dp"
+            android:background="@drawable/shapebutton"
+            android:textStyle="bold"/>
+
+        <Button
+            android:id="@+id/btRegras"
+            android:layout_width="@dimen/main_botoes"
+            android:layout_height="wrap_content"
+            android:text="@string/regras"
+            android:layout_below="@+id/btJogar"
+            android:layout_alignLeft="@+id/btJogar"
+            android:layout_alignStart="@+id/btJogar"
+            android:layout_marginTop="24dp"
+            android:background="@drawable/shapebutton"
+            android:textStyle="bold"/>
+
+        <Button
+            android:id="@+id/btRecordes"
+            android:layout_width="@dimen/main_botoes"
+            android:layout_height="wrap_content"
+            android:text="@string/abrir_recordes"
+            android:layout_below="@+id/btRegras"
+            android:layout_alignLeft="@+id/btRegras"
+            android:layout_alignStart="@+id/btRegras"
+            android:layout_marginTop="24dp"
+            android:background="@drawable/shapebutton"
+            android:textStyle="bold"
+            />
+
+        <Button
+            android:id="@+id/btSair"
+            android:layout_width="@dimen/main_botoes"
+            android:layout_height="wrap_content"
+            android:text="@string/sair"
+            android:layout_below="@+id/btRecordes"
+            android:layout_alignLeft="@+id/btRecordes"
+            android:layout_alignStart="@+id/btRecordes"
+            android:layout_marginTop="24dp"
+            android:background="@drawable/shapebutton"
+            android:textStyle="bold"/>
+
+    </RelativeLayout>
+
+</RelativeLayout>

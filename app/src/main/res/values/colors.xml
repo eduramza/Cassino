@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryDark">#1976D2</color>
+    <color name="colorPrimaryLight">#BBDEFB</color>
+    <color name="colorAccent">#8BC34A</color>
+    <color name="colorSecondary_text">#76ff03</color>
+    <color name="texto_regras">#FFF</color>
+    <color name="seta">#99FFFFFF</color>
+
+    <color name="botao_go_primary">#ff1744</color>
+    <color name="botao_go_secundary">#ff8a80</color>
+    <color name="botao_go_dark">#c62828</color>
+
+    <color name="botao_sortear_primary">#17ff17</color>
+    <color name="botao_sortear_secundary">#bdf997</color>
+    <color name="botao_sortear_dark">#16b61b</color>
+
+
+
+
+</resources>

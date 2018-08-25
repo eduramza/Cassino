@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Cassino</string>
+    <string name="jogar">Jogar</string>
+    <string name="regras">Regras</string>
+    <string name="sair">Sair</string>
+    <string name="creditos">Créditos</string>
+    <string name="pontuacao">Pontuacao</string>
+    <string name="go">GO!</string>
+    <string name="jogar_novamente">Jogar Novamente</string>
+    <string name="voltar">Já chega neah!</string>
+    <string name="regras_do_jogo">Regras do Jogo</string>
+    <string name="abrir_recordes">Recordes</string>
+    <string name="high_scores">High Scores</string>
+    <string name="descricao_regras">Pontuações:"\n"
+        50 pontos: quando três imagens idênticas forem sorteadas;"\n"
+        25 pontos: quando pelo menos 2 imagens forem sorteadas iguais; "\n"
+        -25 pontos: quando em uma rodada todas as imagens forem diferentes"\n \n"
+        Creditos: "\n"
+        Você sempre iniciará com 100 créditos, que serão subtraidos 10 a cada jogada, ao final dos créditos será dado a pontuação final do jogador."\n \n"
+        Jogabilidade: "\n"
+        As rodadas se baseiam enquanto o jogador possuir creditos para apostar."\n"
+        Parar jogar basta clicar no botão GO! que irá parar o sorteio e dar o resultado da pontuação feita na rodada, em seguida o jogador deve clicar no
+        botao sorteio para girar as imagens novamente; "\n \n"
+        Fim dos creditos: "\n"
+        Ao fim dos créditos um novo botão com a opção de jogar novamente estará disponivel para o jogador. "\n"
+        </string>
+</resources>
